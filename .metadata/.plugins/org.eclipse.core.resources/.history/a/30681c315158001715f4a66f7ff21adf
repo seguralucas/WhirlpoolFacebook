@@ -1,0 +1,9 @@
+url=https://graph.facebook.com/v2.9/1981752085184426/leads?access_token=EAACEdEose0cBAIZBcHV3ZCisebNVY0O2ogADYahEcYiCaYpczG5QYjgWtNtuUb2zp4dHcZBxVVWKu5H3aClJkZBnVmuQpE66xWoZCXY28jeOVkYokZA3qcH1hxKkm46xjxeZBdcZAzheUEE3XIijfiEcTgxmbDkJYmbZBgiGKZBpFd4sWO6y5YyXvzeZAomTM1D6iw8ZBNrJiH7lWjBciqvWaoxO
+paaginado=true
+usaProxy=NO
+ipProxy=10.152.140.252
+puertoProxy=8080
+separadorCSV=;
+identificadorAtributo=#
+metodoEjecutor=ejecutorServicioACsvFacebook
+action=SERVICIOAACSV

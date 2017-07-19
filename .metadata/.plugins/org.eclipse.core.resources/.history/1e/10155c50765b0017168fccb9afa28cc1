@@ -1,0 +1,2 @@
+PURCHASE_DATE;ORDER_ID;STATUS_DESCRIPTION;TOTAL_VALUE;EMAIL_ADDRESS_;ITEM_NAME;SKU;QUANTITY;SELLER_NAME;ITEM_PRICE
+created_time;field_data[0].values[0];field_data[1].values[0];field_data[2].values[0]

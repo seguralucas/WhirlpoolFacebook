@@ -1,0 +1,16 @@
+url=https://graph.facebook.com/v2.9/1981752085184426/leads?access_token=#access_token#
+cabecera={   }
+
+usaProxy=NO
+ipProxy=10.152.140.252
+puertoProxy=8080
+paaginado=true
+
+separadorCSV=;
+identificadorAtributo=#
+iterarSobre=data
+
+metodoEjecutor=ejecutorServicioACsvFACEBOOK
+action=SERVICIOAACSVFACEBOOK
+nivelParalelismo=1
+createEmptyFile=true
