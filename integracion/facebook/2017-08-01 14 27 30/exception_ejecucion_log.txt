@@ -1,0 +1,7 @@
+FileName: IdentityFile.java Metodo: newInstanceClase com.jcraft.jsch.IdentityFile Linea 98
+FileName: JSch.java Metodo: addIdentityClase com.jcraft.jsch.JSch Linea 196
+FileName: JSch.java Metodo: addIdentityClase com.jcraft.jsch.JSch Linea 182
+FileName: SFTP.java Metodo: transferirFicheroClase exit.services.principal.SFTP Linea 28
+FileName: Principal.java Metodo: servicioACsvFacebookClase exit.services.principal.Principal Linea 117
+FileName: Principal.java Metodo: mainClase exit.services.principal.Principal Linea 37
+---------------------------------------------------------------------

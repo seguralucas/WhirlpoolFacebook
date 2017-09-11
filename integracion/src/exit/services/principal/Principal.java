@@ -23,6 +23,7 @@ public class Principal {
 
 	
 	public static void main(String[] args) throws Exception {
+		System.out.println("Pruebaaaa");
 		long time_start, time_end;
     	time_start = System.currentTimeMillis();
     	ApuntadorDeEntidad ap=ApuntadorDeEntidad.getInstance();
